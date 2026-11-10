@@ -1,0 +1,87 @@
+body{
+    background: gainsboro;
+    font-family: sans-serif;
+    font-size: 14px;
+}
+
+h2 {
+    display: flex;
+    justify-content: center;
+    margin-inline: auto;
+}
+
+p {
+    display: flex;
+    justify-content: center;
+    margin-inline: auto;
+}
+
+.snap{
+    background-color: white;
+    width: fit-content;
+    height: 420px;
+    width: 300px;
+    margin-left: 600px;
+}
+
+.snap-link{
+    text-decoration: none;
+    color: rgb(28, 176, 250);
+     display: flex;
+    justify-content: center;
+    margin-inline: auto;
+    margin-top: 5px;
+}
+
+li{
+    list-style: none;
+}
+
+input{
+     display: flex;
+     justify-content: center;
+     margin-inline: auto;
+}
+
+img{
+    height: 100px;
+    display: flex;
+    justify-content: center;
+    margin-inline: auto;
+}
+
+.snappy1{
+    background-color: #1D9BF0;
+    color: white;
+    display: flex;
+     justify-content: center;
+     margin-inline: auto;
+     margin-top: 20px;
+     border-radius: 4px 8px;
+}
+
+.snappy2{
+    background-color: white;
+      display: flex;
+    justify-content: center;
+    margin-inline: auto;
+    border-radius: 4px 8px;
+}
+
+.snappy3{
+    background-color: white;
+      display: flex;
+    justify-content: center;
+    margin-inline: auto;
+    border-radius: 4px 8px;
+    margin-top: 10px;
+}
+
+.chat1{
+    height: 20px;
+    margin-top: 6px;
+}
+
+.chat2{
+    height: 20px;
+}
